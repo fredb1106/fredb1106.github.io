@@ -1,8 +1,12 @@
-I"¡<p>Hi, my name is Frederic Bouchard. Welcome to my technical writing portfolio.</p>
+I"]<p>Hi, my name is Frederic Bouchard. Welcome to my technical writing portfolio.</p>
 
 <h1 id="about">About</h1>
 
 <p><img src="/images/Headshot.png" alt="Frederic Bouchard" class="circle border shadow" width="280" style="float: left; margin: 6px 12px 6px 0px;" /></p>
+
+<p>I am a computer engineer with 15 years of IT experience.</p>
+
+<p>I have always been passionate about explaining things clearly and made it a personal quest</p>
 
 <p>Maecenas eget vulputate arcu. Pellentesque consectetur ullamcorper urna vitae facilisis. Vivamus quis justo blandit, hendrerit sapien id, scelerisque neque. Quisque pulvinar risus maximus, feugiat urna nec, congue nisl.</p>
 
@@ -14,7 +18,7 @@
 
 <h1 id="portfolio">Portfolio</h1>
 
-<p>Below are samples of my work. Click on the screenshot in the left column to go to sample.</p>
+<p>Below are samples to showcase what I can do. Click on the screenshot in the left column to go to sample.</p>
 
 <table>
     <colgroup>
@@ -36,7 +40,7 @@
 
             </td>
             <td>
-                <p>All steps to generate a Hello World in DITA using the OxygenXML editor</p>
+                <p>All steps required to generate a Hello World in DITA using the OxygenXML editor</p>
 
                 <p><strong>Skills showcased:</strong></p>
                 <ul>
